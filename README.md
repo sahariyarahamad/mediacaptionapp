@@ -41,7 +41,7 @@ MEDIA CAPTION is a fully offline status creation app, make by [BundleCrop](https
 
 -   **50+ Status**
 
--    **10+ stylesh bangla and english font**
+-    **10+ stylish bangla and english font**
 
 ## Disclaimer
 *This app is developed by [BundleCrop](https://www.facebook.com/bundlecrop/), a software development company.  
