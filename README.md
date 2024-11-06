@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaption/refs/heads/main/ic_logo_round.webp">
 </p>
 
-[![Repo Size](https://img.shields.io/github/repo-size/sahariyarahamad/mediacaption)](https://github.com/sahariyarahamad/mediacaption)
+[![App Size](https://img.shields.io/github/repo-size/sahariyarahamad/mediacaption)](https://github.com/sahariyarahamad/mediacaption)
 
 
 # Media Caption
