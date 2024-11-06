@@ -9,8 +9,8 @@
 # Media Caption
 
 MEDIA CAPTION is a fully offline status creation app, make by [BundleCrop](https://www.facebook.com/bundlecrop/). You can:
--	Write their own statuses and change font styles.
--	Save statuses as images to their phone memory.
+-	Write your own statuses and change font styles.
+-	Save statuses as images to your phone memory.
 -	View a collection of statuses provided by the app.
 -	Copy, share, and save these statuses as images to your phone memory.
 
