@@ -10,13 +10,20 @@ MEDIA CAPTION is a fully offline status creation app, make by [BundleCrop](https
 -	View a collection of statuses provided by the app.
 -	Copy, share, and save these statuses as images to their phone memory.
 
-# Feature of this app
--- Thumbnail size
-- Change your caption/status thumbnail size
--- Add text
--- Text size
-  - You can increase or decrease text size
--- Text color
-- You can change text color
--- Background color
-  - You can change background color
+## Features of this App
+
+- **Thumbnail Size**  
+  Adjust the size of your caption/status thumbnail.
+
+- **Add Text**  
+  Easily insert text into your thumbnail.
+
+- **Text Size**  
+  Increase or decrease the text size as needed.
+
+- **Text Color**  
+  Change the color of the text to suit your style.
+
+- **Background Color**  
+  Customize the background color to enhance your design.
+
