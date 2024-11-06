@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaption/refs/heads/main/ic_logo_round.webp">
 </p>
 
-[![GitHub release_version](https://img.shields.io/github/v/release/sahariyarahamad/mediacaption)](https://github.com/sahariyarahamad/mediacaption/releases)
+[![GitHub release_version](https://img.shields.io/github/v/release/sahariyarahamad/mediacaptionapp)](https://github.com/sahariyarahamad/mediacaptionapp/releases)
 
 
 
 # Media Caption
 
-MEDIA CAPTION is a fully offline status creation app, make by [BundleCrop](https://www.facebook.com/bundlecrop/). You can:
+***MEDIA CAPTION*** is a fully offline status creation app, make by [BundleCrop](https://www.facebook.com/bundlecrop/). You can:
 -	Write your own statuses and change font styles.
 -	Save statuses as images to your phone memory.
 -	View a collection of statuses provided by the app.
