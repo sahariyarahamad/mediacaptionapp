@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaption/refs/heads/main/ic_logo_round.webp">
 </p>
 
+[![App size](https://img.shields.io/github/repo-size/sahariyarahamad/mediacaption/)](https://github.com/sahariyarahamad/mediacaption)
+
 # Media Caption
 
 MEDIA CAPTION is a fully offline status creation app, make by [BundleCrop](https://www.facebook.com/bundlecrop/). You can:
