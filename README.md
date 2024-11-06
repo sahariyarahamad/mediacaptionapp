@@ -4,6 +4,9 @@
 
 [![App Size](https://img.shields.io/github/repo-size/sahariyarahamad/mediacaption)](https://github.com/sahariyarahamad/mediacaption)
 
+[![GitHub release_version](https://img.shields.io/github/v/release/sahariyarahamad/mediacaption)](https://github.com/sahariyarahamad/mediacaption/releases)
+
+
 
 # Media Caption
 
@@ -30,3 +33,18 @@ MEDIA CAPTION is a fully offline status creation app, make by [BundleCrop](https
 - **Background Color**  
   Customize the background color to enhance your design.
 
+- **Text Style**
+
+-  **Text format change**
+
+-  **Text font style**
+
+-   **50+ Status**
+
+-    **10+ stylesh bangla and english font**
+
+## Disclaimer
+*This app is developed by [BundleCrop](https://www.facebook.com/bundlecrop/), a software development company.  
+It is exclusively designed for fair use and is* **not open-source**. *All rights to this app are reserved by BundleCrop.*
+
+*Thank you for your support and for choosing our app!*
