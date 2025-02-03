@@ -43,7 +43,7 @@
 -    **10+ stylish bangla and english font**
 
 ## Download link
-Download from [github link](https://github.com/sahariyarahamad/mediacaptionapp/releases/download/v1.1.0/Media_Caption.apk) or from [website](sahariyarahamad.github.io/mcadr/)
+Download from [github link](https://github.com/sahariyarahamad/mediacaptionapp/releases/download/v1.1.0/Media_Caption.apk) or from [website](https://sahariyarahamad.github.io/mcadr/)
 
 ## Disclaimer
 *This app is developed by [BundleCrop](https://www.facebook.com/bundlecrop/), a software development company.  
