@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaption/refs/heads/main/ic_logo_round.webp">
+  <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaptionapp/refs/heads/main/Media_Captioin_logo.png">
 </p>
 
 [![GitHub release_version](https://img.shields.io/github/v/release/sahariyarahamad/mediacaptionapp)](https://github.com/sahariyarahamad/mediacaptionapp/releases)
@@ -41,6 +41,9 @@
 -   **50+ Status**
 
 -    **10+ stylish bangla and english font**
+
+## Download link
+Download from [github link](https://github.com/sahariyarahamad/mediacaptionapp/releases/download/v1.1.0/Media_Caption.apk) or from [website](sahariyarahamad.github.io/mcadr/)
 
 ## Disclaimer
 *This app is developed by [BundleCrop](https://www.facebook.com/bundlecrop/), a software development company.  
