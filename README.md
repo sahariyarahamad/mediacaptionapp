@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaptionapp/refs/heads/main/Media_Captioin_logo.png">
+  <img src="https://raw.githubusercontent.com/sahariyarahamad/mediacaptionapp/refs/heads/main/ic_logo.webp">
 </p>
 
 [![GitHub release_version](https://img.shields.io/github/v/release/sahariyarahamad/mediacaptionapp)](https://github.com/sahariyarahamad/mediacaptionapp/releases)
