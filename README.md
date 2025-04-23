@@ -8,7 +8,7 @@
 
 # Media Caption
 
-**MEDIA CAPTION** is a fully offline status creation app, make by [Codenum](#). You can:
+**MEDIA CAPTION** is a fully offline status creation app, make by [Sahariyar Ahamad](https://github.com/sahariyarahamad). You can:
 -	Write your own statuses and change font styles.
 -	Save statuses as images to your phone memory.
 -	View a collection of statuses provided by the app.
@@ -46,7 +46,8 @@
 Download from [github link](https://github.com/sahariyarahamad/mediacaptionapp/releases/download/v1.1.0/Media_Caption.apk) or from [website](https://sahariyarahamad.github.io/mcadr/)
 
 ## Disclaimer
-*This app is developed by [Codenum](#), a software development company.  
-It is exclusively designed for fair use and is* **not open-source**. *All rights to this app are reserved by BundleCrop.*
+*This app is developed by [Sahariyar Ahamad](https://github.com/sahariyarahamad), a software developer 
+It is exclusively designed for fair use and is* **not open-source**. *All rights to this app are reserved by Sahariyar Ahamad.*
 
-*Thank you for your support and for choosing our app!*
+*Thank you for your support and for choosing my app!*
+***Author [Sahariyar Ahamad](https://github.com/sahariyarahamad)
