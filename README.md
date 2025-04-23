@@ -50,4 +50,4 @@ Download from [github link](https://github.com/sahariyarahamad/mediacaptionapp/r
 It is exclusively designed for fair use and is* **not open-source**. *All rights to this app are reserved by Sahariyar Ahamad.*
 
 *Thank you for your support and for choosing my app!*
-***Author [Sahariyar Ahamad](https://github.com/sahariyarahamad)
+***Author [Sahariyar Ahamad](https://github.com/sahariyarahamad)***
